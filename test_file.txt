@@ -1,0 +1,19 @@
+hello in this file contains what was done in this clone of the branches repository
+used git branch to make 2 branches from the main 
+used git checkout to switch from the 2 branches and main
+created files using the touch command
+used nano command to type into the files
+used git status to check to see if files were commited 
+used git log --decorate to see the current position of the header
+used git add to add all files to the staging
+used git commit -m to commit files to the repository 
+had to use git checkout second -- test_files.txt to take that file 
+into the branch testing because i had created tath file in the 
+wrong branch
+going to merge testing branch to main 
+using git status to make sure eery file is commited to git
+use git checkout to swith to main
+use git pull origin main to update main
+use git merge testing to merge the branch to the main
+use git push origin main to now move that merge to github
+
