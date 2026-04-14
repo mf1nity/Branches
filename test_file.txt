@@ -1,8 +1,0 @@
-hello in this file contains what was done in this clone of the branches repository
-used git branch to make 2 branches from the main 
-used git checkout to switch from the 2 branches and main
-created files using the touch command
-used nano command to type into the files
-used git status to check to see if files were commited 
-used git log --decorate to see the current position of the header
-
